@@ -1,1 +1,1 @@
-# Disabled-parking-space-management-system
+# 장애인 주차구역 관리 시스템
